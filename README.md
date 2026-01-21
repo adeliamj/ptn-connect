@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements :
 ### Clone Repository
 To run in the locally, run this command on your git bash to clone this repo :
 ```
-git clone https://github.com/ahmadammarm/ptn-connect.git
+https://github.com/adeliamj/ptn-connect
 ```
 
 
